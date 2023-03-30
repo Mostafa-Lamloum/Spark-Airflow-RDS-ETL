@@ -1,4 +1,4 @@
-#Data Engineering ETL Pipeline using Spark, PySpark, Airflow and Amazon RDS
+# Data Engineering ETL Pipeline using Spark, PySpark, Airflow and Amazon RDS
 
 This project is an ETL pipeline that extracts data from MySQL using Spark and PySpark for data transformation and then loads it onto Amazon RDS for storage. The pipeline is fully automated using Airflow, ensuring the smooth flow of data from the source to the destination.
 Requirements
