@@ -15,13 +15,13 @@ Installation
 
     bash
 
-git clone https://github.com/your-username/data-engineering-etl-pipeline.git
+    git clone https://github.com/your-username/data-engineering-etl-pipeline.git
 
 Install the necessary dependencies:
 
-bash
+    bash
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 Set up your environment variables:
 
@@ -36,7 +36,7 @@ Set up your environment variables:
 
 Run the ETL pipeline:
 
-bash
+    bash
 
     python etl_pipeline.py
 
