@@ -16,7 +16,7 @@ To create an AWS account, you need the following:
 
 On this page, we enter our email address and AWS account name. The account name is not that important. You can change it after logging into the account.
           
-          ![aws1](https://user-images.githubusercontent.com/106387844/229291709-56589c73-81f3-4c77-83c4-d91965e612ef.png)
+![aws1](https://user-images.githubusercontent.com/106387844/229291709-56589c73-81f3-4c77-83c4-d91965e612ef.png)
 
 2. AWS account information
 
