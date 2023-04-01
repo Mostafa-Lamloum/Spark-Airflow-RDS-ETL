@@ -14,7 +14,7 @@ For Templates, select Free tier.
 7. In the Settings section, enter the DB instance identifier, Master username, and Master password.
 80 For DB instance class, Storage, Connectivity, and Database authentication, select the options that are best for your use case, or leave the default configurations.
 >Note: Database authentication options are available only if you select MySQL.
-9. Important: In the Storage section, clear Enable storage autoscaling to avoid incurring charges.
+9. Important: In the Storage section, clear **Enable storage autoscaling** to avoid incurring charges.
 10. In the Additional configuration section, for Initial database name, enter a name for your database. For all other configuration details, choose the options that are best for your use case, or leave the default settings.
->Important: For Backup, clear Enable automatic backups to avoid incurring storage fees for retaining backups of your Amazon RDS instance.
+>Important: For Backup, clear **Enable automatic backups** to avoid incurring storage fees for retaining backups of your Amazon RDS instance.
 11. Review the Estimated monthly costs, and then choose Create database.
