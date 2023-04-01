@@ -43,7 +43,7 @@ Here there will also be a need to confirm the withdrawal of 1 dollar from the ac
 
 ![aws7](https://user-images.githubusercontent.com/106387844/229292563-77ce8d74-4991-48e3-9ce8-77b38783c9a6.png)
 
-*** Congratulations *** 
+***Congratulations*** 
 The account has been created, but we still have to wait a while for it to be activated. We will receive information about this by email.
 
 ![aws8](https://user-images.githubusercontent.com/106387844/229292600-ef5ebf14-2600-4c05-9282-ba245199f506.png)
