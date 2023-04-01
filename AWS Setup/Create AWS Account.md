@@ -12,16 +12,13 @@ To create an AWS account, you need the following:
 
 ## Steps:
 
-    1. Go to the [AWS Homepage](https://aws.amazon.com/) and click the "Create an AWS Account" button.
+1. Go to the [AWS Homepage](https://aws.amazon.com/) and click the "Create an AWS Account" button.
 
-![aws1](https://user-images.githubusercontent.com/106387844/229291709-56589c73-81f3-4c77-83c4-d91965e612ef.png)
- 
+On this page, we enter our email address and AWS account name. The account name is not that important. You can change it after logging into the account.
+          
+          ![aws1](https://user-images.githubusercontent.com/106387844/229291709-56589c73-81f3-4c77-83c4-d91965e612ef.png)
 
-
-    On the next page, you will be asked to provide some basic information, such as your name, email address, 
-    and password. Fill in the required fields and click the "Continue" button.
-
-AWS account information
+2. AWS account information
 
     On the next page, you will be asked to provide your contact information and billing details. 
     You will need to provide a valid credit card to complete the sign-up process. Once you have filled in the required information, 
