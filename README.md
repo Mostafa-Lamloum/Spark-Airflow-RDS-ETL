@@ -2,6 +2,8 @@
 
 # Project Description:
 This project demonstrates how to automate the ETL process using Apache Airflow, Spark, and MySQL. The ETL process involves extracting data from a source database, transforming the data, and then loading it into a target database. Apache Airflow is used to schedule and monitor the ETL tasks, while Spark is used for data processing and MySQL for storing the data. 
+![image](https://user-images.githubusercontent.com/122913395/229295365-8fafcb9e-8052-41a4-b0df-e00db0a1ebc7.png)
+
 
 # Requirements
 
