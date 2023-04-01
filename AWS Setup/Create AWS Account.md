@@ -18,35 +18,47 @@ On this page, we enter our email address and AWS account name. The account name 
           
 ![aws1](https://user-images.githubusercontent.com/106387844/229291709-56589c73-81f3-4c77-83c4-d91965e612ef.png)
 
-2. AWS account information
+2. Confirm your Email address using the verification code:
 
-    On the next page, you will be asked to provide your contact information and billing details. 
-    You will need to provide a valid credit card to complete the sign-up process. Once you have filled in the required information, 
-    click the "Create Account and Continue" button.
+![aws2](https://user-images.githubusercontent.com/106387844/229292014-32a864f1-d8a5-4ad2-9916-22b5b3abdd55.png)
 
-AWS contact and billing information
+3. Proceed by entering password for your root account:
 
-    You will now be asked to verify your identity by providing a phone number where you can receive a verification code. 
-    Enter your phone number and click the "Send SMS" button. You will receive a verification code via SMS.
+![aws3](https://user-images.githubusercontent.com/106387844/229292213-44a80196-a004-4431-8542-9c94f72e3770.png)
 
-AWS identity verification
+4. Here we need to provide real data. This is because they will be needed to verify the card and phone number:
+![aws4](https://user-images.githubusercontent.com/106387844/229292298-d97019fb-fcbc-4b99-8d39-6ca8314afc80.png)
 
-    Enter the verification code you received and click the "Verify code and continue" button.
+5. Provide our payment/credit card details:
 
-AWS verification code
+![aws5](https://user-images.githubusercontent.com/106387844/229292346-5ce7b28a-c86f-446b-b9fd-544c60e8cf77.png)
 
-    Read and accept the AWS Customer Agreement and click the "Create Account and Continue" button.
+Here there will also be a need to confirm the withdrawal of 1 dollar from the account. This money will be reclaimed back after verification from AWS website.
 
-AWS customer agreement
+6. Confirm our phone number. To do this, we need to select the type of verification:
 
-    You will now be asked to choose a support plan. You can choose the "Basic" plan, which is free, or one of the paid plans if you require more support. 
-    Once you have made your choice, click the "Continue" button.
+![aws6](https://user-images.githubusercontent.com/106387844/229292401-9eeece0b-063e-418b-b38b-7a350a8f276c.png)
 
-AWS support plan
+7. Choose the type of support from AWS. Here we choose Basic support Free option:
 
-    You will now be taken to the AWS Management Console, where you can start using AWS services.
+![aws7](https://user-images.githubusercontent.com/106387844/229292563-77ce8d74-4991-48e3-9ce8-77b38783c9a6.png)
 
-AWS management console
+*** Congratulations *** 
+The account has been created, but we still have to wait a while for it to be activated. We will receive information about this by email.
 
-Congratulations! You have successfully created an AWS account. You can now start exploring the many AWS services available to you.
-Remember to keep your login credentials secure and to monitor your billing activity to avoid unexpected charges.
+![aws8](https://user-images.githubusercontent.com/106387844/229292600-ef5ebf14-2600-4c05-9282-ba245199f506.png)
+
+After logging in, we will see the main AWS console panel.
+
+![aws9](https://user-images.githubusercontent.com/106387844/229292619-c7cffc17-4a8d-43c0-b054-3438baeb9cd2.png)
+
+
+
+
+
+
+
+
+
+
+
