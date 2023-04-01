@@ -31,3 +31,8 @@ For Templates, select Free tier.
 3. Add you RDS instance Endpoint, Username and password
 4. Test the connection 
 5. select Apply
+
+
+## Reference 
+
+[AWS Reference Link](https://repost.aws/knowledge-center/free-tier-rds-launch)
