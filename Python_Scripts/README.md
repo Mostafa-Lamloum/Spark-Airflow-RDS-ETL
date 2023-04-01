@@ -8,6 +8,8 @@ This project contains a series of Python scripts used to extract, transform, and
 * MYSQL
 * AWS RDS DB
 
+For ease of installation, we include the requirements.txt file for our python environment if needed.
+
 
 # File Structure
 * extract_task.py - This script extracts data from a source database and saves it to a CSV file.
