@@ -1,9 +1,9 @@
-# : ETL Automation using Apache Airflow, Spark and MySQL and AWD RDS
+# ETL Automation using Apache Airflow, Spark and MySQL and AWS RDS
 
 # Project Description:
 This project demonstrates how to automate the ETL process using Apache Airflow, Spark, and MySQL. The ETL process involves extracting data from a source database, transforming the data, and then loading it into a target database. Apache Airflow is used to schedule and monitor the ETL tasks, while Spark is used for data processing and MySQL for storing the data. 
 
-Requirements
+# Requirements
 
     * MySQL
     * Spark
