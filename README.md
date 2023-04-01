@@ -25,7 +25,7 @@ Requirements
 * Import desired dataset to your MYSQL database 
 * Edit your python scripts for the tasks and the dag scheduler with your required transformations
 * Setup your AWS RDS
-* Start Spark master and workers using , start-master.sh, and start-worker.sh spark://your-vm:7077   (Make sure you have the right permissions)
+* Start Spark master and workers using , start-master.sh, and start-worker.sh spark://localhost:7077    
 * Start airflow webserver and airflow scheduler from within your environment
 * Execute your dag and go to localhost:8080 to observe your tasks running.
 
