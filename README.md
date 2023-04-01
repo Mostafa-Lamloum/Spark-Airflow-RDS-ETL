@@ -35,7 +35,7 @@ This project demonstrates how to automate the ETL process using Apache Airflow, 
 
 To use this ETL pipeline, follow the steps outlined in the Installation section above. Once you have set up your environment variables and installed the necessary dependencies, you can run the pipeline by executing the dag_file.py script.
 
-#Troubleshooting 
+# Troubleshooting 
 ## If start-master.sh or start-worker.sh are not working   
 * Make sure you setup your environment variables properly in the bashrc file 
 * If your spark directory is in a protected directory, open the terminal in that directory and use sudo bash start-master.sh
