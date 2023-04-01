@@ -1,15 +1,17 @@
-# Data Engineering ETL Pipeline using Spark, PySpark, Airflow and Amazon RDS
+# : ETL Automation using Apache Airflow, Spark and MySQL and AWD RDS
 
-This project is an ETL pipeline that extracts data from MySQL using Spark and PySpark for data transformation and then loads it onto Amazon RDS for storage. The pipeline is fully automated using Airflow, ensuring the smooth flow of data from the source to the destination.
+# Project Description:
+This project demonstrates how to automate the ETL process using Apache Airflow, Spark, and MySQL. The ETL process involves extracting data from a source database, transforming the data, and then loading it into a target database. Apache Airflow is used to schedule and monitor the ETL tasks, while Spark is used for data processing and MySQL for storing the data. 
+
 Requirements
 
-    MySQL
-    Spark
-    PySpark
-    Airflow
-    Amazon RDS
+    * MySQL
+    * Spark
+    * PySpark
+    * Airflow
+    * Amazon RDS
 
-Installation
+# Installation
 
     Clone this repository onto your local machine:
 
@@ -17,11 +19,7 @@ Installation
 
     git clone https://github.com/Mostafa-Lamloum/Spark-Airflow-RDS-ETL
 
-Install the necessary dependencies:
 
-    bash
-
-    pip install -r requirements.txt
 
 Set up your environment variables:
 
