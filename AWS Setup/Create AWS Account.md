@@ -14,7 +14,7 @@ To create an AWS account, you need the following:
 
     1. Go to the [AWS Homepage](https://aws.amazon.com/) and click the "Create an AWS Account" button.
 
- ![plot](C:\Users\mlamloum\OneDrive - sumerge.com\Desktop\aws1.png)
+![plot](C:\Users\mlamloum\OneDrive - sumerge.com\Desktop\aws1.png)
  
 
 
