@@ -53,7 +53,9 @@ After logging in, we will see the main AWS console panel.
 ![aws9](https://user-images.githubusercontent.com/106387844/229292619-c7cffc17-4a8d-43c0-b054-3438baeb9cd2.png)
 
 
+## Reference 
 
+[Reference Link](https://dev.to/aws-builders/create-a-free-aws-account-and-configure-the-aws-cli-1khf)
 
 
 
