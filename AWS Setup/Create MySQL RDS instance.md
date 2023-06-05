@@ -7,7 +7,7 @@ Important: To avoid unnecessary charges, read the Amazon RDS Free Tier offering 
 1. Open the Amazon RDS console.
 3. In the navigation bar, select your Region from the Region selector.
 4. In the **Create database** section, choose **Create database**.
-5. For the Choose a database **creation method** section, choose **Standard creat*=e**.
+5. For the Choose a database **creation method** section, choose **Standard create**.
 6. In the **Engine options** section, select one of the following engine type: **MySQL**.
 >Important: The Free Tier doesn't cover RDS DB instances launched with Amazon Aurora, Amazon RDS for Microsoft SQL Server, or Oracle database engines.
 For Templates, select Free tier.
